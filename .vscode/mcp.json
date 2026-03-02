@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "node",
+      "args": [
+        "playwright-mcp/packages/playwright-mcp/cli.js",
+        "--channel=msedge"
+      ]
+    }
+  }
+}
