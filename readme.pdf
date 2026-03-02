@@ -1,80 +1,328 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 3167
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 692 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 171.48 0 Td (ExamplePOC) Tj T* -171.48 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 674 cm
+Q
+q
+1 0 0 1 78 652 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 622 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (ExamplePOC is a minimal .NET 8 console application that prompts the user for text input and prints it) Tj T* (to the console. If no input is provided, it defaults to printing ) Tj /F2 10 Tf (HELLO WORLD) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 610 cm
+Q
+q
+1 0 0 1 78 588 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 570 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (.NET 8 SDK or later) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 558 cm
+Q
+q
+1 0 0 1 78 536 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Getting Started) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 518 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Clone the repository and navigate to the project directory:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 512 cm
+Q
+q
+1 0 0 1 78 500 cm
+q
+.960784 .960784 .960784 rg
+n 12 0 432 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 12 3 Tm /F3 9 Tf 12 TL (git clone https://github.com/MonkeyandKeyboard/ExamplePOC.git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 482 cm
+q
+.960784 .960784 .960784 rg
+n 12 0 432 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 12 3 Tm /F3 9 Tf 12 TL (cd ExamplePOC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 464 cm
+Q
+q
+1 0 0 1 78 442 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Build) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 424 cm
+q
+.960784 .960784 .960784 rg
+n 12 0 432 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 12 3 Tm /F3 9 Tf 12 TL (dotnet build) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 406 cm
+Q
+q
+1 0 0 1 78 384 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Run) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 366 cm
+q
+.960784 .960784 .960784 rg
+n 12 0 432 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 12 3 Tm /F3 9 Tf 12 TL (dotnet run) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 354 cm
+Q
+q
+1 0 0 1 78 342 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You will be prompted to enter text. Press Enter with no input to output the default message.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 330 cm
+Q
+q
+1 0 0 1 78 308 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Project Structure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 290 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (ExamplePOC.csproj) Tj /F1 10 Tf ( \227 Project configuration file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 278 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (ExamplePOC.sln) Tj /F1 10 Tf ( \227 Solution file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 266 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Program.cs) Tj /F1 10 Tf ( \227 Application entry point) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 254 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (.github/skills/) Tj /F1 10 Tf ( \227 GitHub AI skill definitions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 242 cm
+Q
+q
+1 0 0 1 78 220 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (License) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 202 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This project is for demonstration purposes.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 24 Tf
+28.8 TL
+ET
+BT
+1 0 0 1 40 752 Tm
+(\052 \052 \052 \052 \052) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260301191558-06'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260301191558-06'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 997
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GauHJ?#SFN'Rf.GgdbC^+`RR:^@d,de_'(XUhS7`6=PQ$`(h>.[f:e8:0;4C\V!Hg&d7CogiKXeLHTVHj6?$.!'#sGnC[o)5dUSGDuti-0TCDQ4g213LG5/.1r_CSYK<l$gUoaA\>MS+!aaNP&COs2A'YHJHlJp/T0C7`RFCKtfa!=N+Zb3N]C4/)GPo,G3=Zt"Y?-MV1[34E<,NP$f_RM;,9?7]4AQ'*)FfM(D.'ieGBEqe+GPJf<l@!Xhkh!=O9f0LS3gJH3D3i#":)>p'pMT1V5j"qKt<uk<^MD4NsZ^WCBZFgd=uWt@;8HIYCtcZTfR/#!\V&)kT3#K/>_T$g]K!2`HC%I&1nOT)/(99*j)2e3M"FWn7-o'47?Km-2&?pYWUNV2T%6(s(lT:IEa#h-u-0#*0+;D3,-4<o\1&FGK6pIrrO%p4B>EbI1/K,/:Y%AX:)%M`"snhMPaFXSi(=rAS8R3<+giZV5Taonk!I'O#JUWU!P(n-H.Q20HW!i8RlmZk<_iSE4aaaPE@p:"*jd&S9`!\UZ%F!5uLf*Bc*$^2"4^L5"p,fAXKr`(:I8DXH!Mf>ZoZO-P=>UX5J3o#pk%o:J2;CFRWO_:A.p=-<WW*hF0\]XmE5dB-];h27F\fTXgWE/@XbC5_=1lT*iQ:K&rJLglXn7*sMs,O.+fcq4l>a.[P(X)4Jk+\"C4AqL=A@*a##OP'3URVG4m:';b(9ESt$KWe.3VH,)1]*Yi?:C8IQ,6$._\$8df"C@1o4DsI56HU-K'meY?uaZ<;,Uc,tuiYmP-fq$C+17Oi1C>.V3&I6&V)8haG:=U*&C=uAH(!H!'`o2D%WcE!SZOhE\D[a(r]ak2ZS&r1UJ=+$Bls*LDR;f$f!q-V"*lDB8*_tJB#Lsi,EA]G6\R=^.?Gaf!BX9$anTr`)ZecBe@%(MW=RQd_,b;2no#cCimK)u"XkW01:-<o?DLX)e:mgP=YH0%1F]uI28*KmU%hI=0~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000436 00000 n 
-0000000629 00000 n 
-0000000697 00000 n 
-0000000977 00000 n 
-0000001036 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000418 00000 n 
+0000003637 00000 n 
+0000003744 00000 n 
+0000003851 00000 n 
+0000003963 00000 n 
+0000004075 00000 n 
 trailer
 <<
-/ID 
-[<77683800ae211d7807c2b03fbb7bd2cd><77683800ae211d7807c2b03fbb7bd2cd>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2123
+4181
 %%EOF
